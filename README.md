@@ -56,19 +56,19 @@ JK BOT
 ##
   <h3 align="center">ðŸ“¢ Support Group 1:</h3>
 <p align="center">
-Click WA logo to Join Support Group ðŸ‘‡
+Click WA LOGO TO JOIN SUPPORT GROUP ðŸ‘‡
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/LscLYO0rUJYCU3nT7F9DJv" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
-  <h3 align="center">ðŸ“¢ Support Group 2:</h3>
+  <h3 align="center">ðŸ“¢ SUPPORT GROUP 2:</h3>
 <p align="center">
-Click JK EFX V1 logo to Join Support Group 2ðŸ‘‡
+Click JK EFX V1 lLOGO TO JOIN SUPPORT GROUP 2ðŸ‘‡
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" <a href="https://ibb.co/4wyvT9j*><img src="JK BOT.jpg" width="200" height="200
+  <a href="https://chat.whatsapp.com/LscLYO0rUJYCU3nT7F9DJv" <a href="https://ibb.co/4wyvT9j*><img src="JK BOT.jpg" width="200" height="200
 </p>
     
 ## Setup

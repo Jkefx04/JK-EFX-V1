@@ -1,4 +1,12 @@
-<a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/210920/2ae6399b753c4a6e4d92490e52ae17fb.png" alt="google-font" border="0"></a>
+I'M JK
+
+🌀 I'M BEGINNER IN THIS FIELD
+
+
+🌀 FROM KOLLAM PARAVUR 
+
+
+         💝 STUDENT
 <div align="center">
         <img src="JK BOT.jpg" width="200" height="200*
 </p>
@@ -20,7 +28,7 @@
 <p align="center">
 Project created by <a href="https://github.com/jkefx04">jkefx04</a> to make it public
     <br>
-       | © |
+       | Â© |
         Reserved |
     <br> 
 </p>
@@ -31,7 +39,7 @@ Project created by <a href="https://github.com/jkefx04">jkefx04</a> to make it p
 <p align="center">
 <a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
+<h4 align="center">Support Video For Deploy Bot ðŸ‘‡:</h4>
 <p align="center">
 <a href="https://youtu.be/_D4ZYuUSXjs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
@@ -46,18 +54,18 @@ Project created by <a href="https://github.com/jkefx04">jkefx04</a> to make it p
 
 
 ##
-  <h3 align="center">📢 Support Group 1:</h3>
+  <h3 align="center">ðŸ“¢ Support Group 1:</h3>
 <p align="center">
-Click WA logo to Join Support Group 👇
+Click WA logo to Join Support Group ðŸ‘‡
     <br>
 <br>
   <a href="https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
-  <h3 align="center">📢 Support Group 2:</h3>
+  <h3 align="center">ðŸ“¢ Support Group 2:</h3>
 <p align="center">
-Click JK EFX V1 logo to Join Support Group 2👇
+Click JK EFX V1 logo to Join Support Group 2ðŸ‘‡
     <br>
 <br>
   <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
@@ -110,7 +118,7 @@ $ node bot.js
 ```
 
 
-### ⚠️ Warning! 
+### âš ï¸ Warning! 
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
@@ -124,7 +132,7 @@ By establishing the JK EFX V1, you are deemed to have accepted these responsibil
   [![jkefx04](https://github.com/jkefx04.png?size=100)](https://github.com/jkefx04) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----|----
 [Ameer Suhail](https://github.com/jkefx04) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
-Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
+Base, Bug Fixes, Modules |Â Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 

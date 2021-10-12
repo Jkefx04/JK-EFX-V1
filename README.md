@@ -37,7 +37,7 @@ Project created by <a href="https://github.com/jkefx04">jkefx04</a> to make it p
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+JK BOT
 </p>
 <h4 align="center">Support Video For Deploy Bot ðŸ‘‡:</h4>
 <p align="center">
@@ -68,7 +68,7 @@ Click WA logo to Join Support Group ðŸ‘‡
 Click JK EFX V1 logo to Join Support Group 2ðŸ‘‡
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" <a href="https://ibb.co/4wyvT9j*><img src="JK BOT.jpg" width="200" height="200
 </p>
     
 ## Setup
